@@ -1,5 +1,6 @@
 # HR Staff Count Report
 Power BI report created to analyse staff count from 2017 to 2021.
+![hr_staff_count](https://user-images.githubusercontent.com/99413257/169857026-5fb844b1-b43e-4727-a8e2-46534a0d0e8e.gif)
 
 ### Production of Dax Measures for HR Staff Report –
 
