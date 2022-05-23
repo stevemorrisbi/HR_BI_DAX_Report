@@ -20,10 +20,10 @@ CALCULATE(
 )
 
 For a dynamic total headcount of staff – the above measure was produced. The CALCULATE function operates similar to a SUMIF function in SQL. The above measure translates to: we want to sum the count of employees (which is a simple measure create using COUNT) and then Filter it by three clauses.
-It will total the sum of the employees if they meet this criteria –
-•	The employees start date is less than or equal to the last day in the calender used for the analysis.
-•	And (&&) the employees end date is greater than the last day in the calender used for the analysis.
-•	Or (||) if the employee end date is blank. E.g the employee doesn’t have an end date filled in because they haven’t left.
+It will total the sum of the employees if they meet this criteria – <br/> <br/>
+•	The employees start date is less than or equal to the last day in the calender used for the analysis. <br/>
+•	And (&&) the employees end date is greater than the last day in the calender used for the analysis. <br/>
+•	Or (||) if the employee end date is blank. E.g the employee doesn’t have an end date filled in because they haven’t left. <br/>
  
 
 #### Measure for Leavers 
